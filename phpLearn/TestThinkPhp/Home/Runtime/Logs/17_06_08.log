@@ -1,0 +1,120 @@
+[ 2017-06-08T16:13:18+08:00 ] /phplearn/testthinkphp/index.php | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead common.php 第 66 行.
+[ 2017-06-08T16:13:18+08:00 ] /phplearn/testthinkphp/index.php | INFO: Tag[ app_begin ] --START--
+[ 2017-06-08T16:13:18+08:00 ] /phplearn/testthinkphp/index.php | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004761s ]
+[ 2017-06-08T16:13:18+08:00 ] /phplearn/testthinkphp/index.php | INFO: Tag[ app_begin ] --END-- [ RunTime:0.007526s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Tag[ route_check ] --START--
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Run CheckRoute Behavior [ RunTime:0.007076s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Tag[ route_check ] --END-- [ RunTime:0.007320s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead Dispatcher.class.php 第 125 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead common.php 第 66 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Tag[ app_begin ] --START--
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001715s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001898s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Tag[ view_template ] --START--
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Run LocationTemplate Behavior [ RunTime:0.004122s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Tag[ view_template ] --END-- [ RunTime:0.004311s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Tag[ view_parse ] --START--
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 186 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 402 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 402 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 402 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 402 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 402 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 402 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 402 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 402 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 402 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 406 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 220 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead ThinkTemplate.class.php 第 154 行.
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Run ParseTemplate Behavior [ RunTime:0.033548s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033728s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Tag[ view_filter ] --START--
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Run ContentReplace Behavior [ RunTime:0.002437s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Run TokenBuild Behavior [ RunTime:0.002498s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002042s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Run ShowRuntime Behavior [ RunTime:0.002552s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Tag[ view_filter ] --END-- [ RunTime:0.010029s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Tag[ view_end ] --START--
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Run ShowPageTrace Behavior [ RunTime:0.002559s ]
+[ 2017-06-08T16:13:24+08:00 ] /phplearn/testthinkphp/index.php/admin/admin/add | INFO: Tag[ view_end ] --END-- [ RunTime:0.002731s ]

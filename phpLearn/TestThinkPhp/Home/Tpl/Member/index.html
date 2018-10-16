@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <tr>
+        <td>编号</td>
+        <td>用户名</td>
+        <td>用户邮箱</td>
+    </tr>
+    <volist name="data" id="vo">
+        <tr>
+            <td>{$vo.id}</td>
+            <td>{$vo.user_name}</td>
+            <td>{$vo.user_email}</td>
+        </tr>
+    </volist>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<phpedu>
+    <title>
+        php100
+    </title>
+    <item type="text">
+        <contents>PHP</contents>
+        <contents>SQL</contents>
+        <contents>Linux</contents>
+        <contents>Apache</contents>
+    </item>
+    <address>www.php100.com</address>
+</phpedu>
